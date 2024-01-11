@@ -7,7 +7,7 @@ codinlag.forEach((elemet, index, arr) => {
     // console.log(`elemet is ${elemet} index number is ${index} arr is ${arr}`);
 })
 
-const myarr = [
+const mYarr = [
     {
         lag: 'js',
         lagname: 'javascript'
@@ -27,3 +27,4 @@ myarr.forEach((item) => {
 
 
 })
+// @ts-nocheck

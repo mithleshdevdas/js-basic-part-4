@@ -15,10 +15,11 @@ for (const key in coding) {
 }
 
 const maps = new Map();
-map.set("in", "india");
-map.set("ca", "canada");
-map.set("ln", "london");
+// map.set("in", "india");
+// map.set("ca", "canada");
+// map.set("ln", "london");
 
 for (const key in maps) {
     console.log(maps[key]);
 }
+// @ts-nocheck
