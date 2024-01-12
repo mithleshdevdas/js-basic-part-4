@@ -31,3 +31,4 @@ const myarr = ['a', 'b', 'c']
 for (let d = 0; d < myarr.length; d++){
     console.log(myarr[d]);
 }
+// 
