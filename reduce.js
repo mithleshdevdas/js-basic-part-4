@@ -25,3 +25,4 @@ const shopingCart = [
 const totalpay = shopingCart.reduce((acc, ele) => acc + ele.price, 0)
 
 console.log('total couerse price is', totalpay);
+// 
