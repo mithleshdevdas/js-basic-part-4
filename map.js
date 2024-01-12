@@ -5,3 +5,4 @@ const newNums = myNum
     .map((num) => num - 2)
     .filter((num)=> num >=10)
 console.log(newNums);
+// 
