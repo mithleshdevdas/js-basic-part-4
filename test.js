@@ -12,4 +12,6 @@ const inp = [1, -4, 12, 0, -3, 29, -150]
 const res = inp
     .filter((num) => num < 0)
     .reduce((acc, num) => acc + num, 0)
-    console.log(res);
+console.log(res);
+    
+// 
