@@ -9,4 +9,6 @@ let score = 11
 do {
     console.log(score,'score is');
     
-} while (score<=10);
+} while (score <= 10);
+
+//
